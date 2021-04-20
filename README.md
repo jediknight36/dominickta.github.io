@@ -14,7 +14,9 @@ However you might have to be patient! This may take about ~20-30 minutes to upda
 
 ### Step 2. Clone your copy of the repo into the directory of your choice on your local machine.
 
-To do this, first copy the address for the repo by going to the GitHub repo and clicking the green "Code" button, clicking the SSH option, and then copying the address. The address should look something like git@github.com:YOUR\_GITHUB\_USERNAME/YOUR_GITHUB_USERNAME.github.io.git
+Make sure that you are on the GitHub page for YOUR repo, not the original repo.
+
+Copy the address for your repo by going to the GitHub repo and clicking the green "Code" button, clicking the SSH option, and then copying the address. The address should look something like git@github.com:YOUR\_GITHUB\_USERNAME/YOUR_GITHUB_USERNAME.github.io.git
 
 Then on your local machine, on your terminal, cd into the directory that you want this repo to be located on. After that, run this command:
 
